@@ -4,6 +4,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## 💻 Commands
 ## [Screenshots](./screenshots/readme.md)
 - [Disable shadow](./screenshots/disable-shadow/readme.md)
+- [Include date](./screenshots/include-date/readme.md)
 
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
