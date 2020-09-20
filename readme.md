@@ -5,6 +5,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Dock](./dock/readme.md)
 - [Position](./dock/orientation/readme.md)
 - [Autohide](./dock/autohide/readme.md)
+- [Autohide animation time](./dock/autohide-time-modifier/readme.md)
 - [Autohide delay](./dock/autohide-delay/readme.md)
 
 ## [Screenshots](./screenshots/readme.md)
