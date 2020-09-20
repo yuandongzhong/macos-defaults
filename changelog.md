@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the finder AppleShowAllExtensions command [[7ea132d](https://github.com/yannbertrand/macos-defaults/commit/7ea132d2e414ea6f91ccc55d2edac3caf01c07ee)]
 - ✨ Add the finder QuitMenuItem command [[e0dda22](https://github.com/yannbertrand/macos-defaults/commit/e0dda22199db2848288796d4d325021037793f4b)]
 - ✨ Add the dock orientation command [[087e0f6](https://github.com/yannbertrand/macos-defaults/commit/087e0f60d5338a7a6a1f07ab40c3c07a4258eb86)]
 - ✨ Add the dock autohide-delay command [[6d0ff22](https://github.com/yannbertrand/macos-defaults/commit/6d0ff22c71706e35c13222e0a44d4210835d73ae)]
