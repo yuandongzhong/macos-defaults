@@ -14,6 +14,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 
 ## [Finder](./finder/readme.md)
 - [Quit](./finder/QuitMenuItem/readme.md)
+- [Show extensions](./finder/AppleShowAllExtensions/readme.md)
 
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
