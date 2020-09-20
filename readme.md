@@ -19,6 +19,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Finder](./finder/readme.md)
 - [Quit](./finder/QuitMenuItem/readme.md)
 - [Show extensions](./finder/AppleShowAllExtensions/readme.md)
+- [Changing file extension warning](./finder/FXEnableExtensionChangeWarning/readme.md)
 
 ## [Mission Control](./mission-control/readme.md)
 - [Rearrange automatically](./mission-control/mru-spaces/readme.md)

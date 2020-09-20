@@ -4,3 +4,4 @@
 
 - [Quit](./QuitMenuItem/readme.md)
 - [Show extensions](./AppleShowAllExtensions/readme.md)
+- [Changing file extension warning](./FXEnableExtensionChangeWarning/readme.md)
