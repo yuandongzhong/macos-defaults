@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the dock autohide-time-modifier [[7e0b5ce](https://github.com/yannbertrand/macos-defaults/commit/7e0b5cec9065367d43b215410461ffb855b80579)]
 - ✨ Add the helpviewer DevMode command [[5b8eaaa](https://github.com/yannbertrand/macos-defaults/commit/5b8eaaa4e226f3bb014660d96ed7963a0fd137fc)]
 - ✨ Add the mission control mru-spaces command [[f88b764](https://github.com/yannbertrand/macos-defaults/commit/f88b7646d8963d80f79c398bd78e37eb79bbd31b)]
 - ✨ Add the feedback assistant Autogather command [[91a0516](https://github.com/yannbertrand/macos-defaults/commit/91a05162ca6e9a5695a5713e194b335a74d8fbd4)]
