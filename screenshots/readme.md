@@ -4,3 +4,4 @@
 
 - [Disable shadow](./disable-shadow/readme.md)
 - [Include date](./include-date/readme.md)
+- [Set location](./location/readme.md)
