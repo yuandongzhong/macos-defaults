@@ -16,6 +16,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Quit](./finder/QuitMenuItem/readme.md)
 - [Show extensions](./finder/AppleShowAllExtensions/readme.md)
 
+## [Mission Control](./mission-control/readme.md)
+- [Rearrange automatically](./mission-control/mru-spaces/readme.md)
+
 ## [Feedback Assistant](./feedback-assistant/readme.md)
 - [Autogather](./feedback-assistant/Autogather/readme.md)
 
