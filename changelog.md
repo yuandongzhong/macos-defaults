@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the dock orientation command [[087e0f6](https://github.com/yannbertrand/macos-defaults/commit/087e0f60d5338a7a6a1f07ab40c3c07a4258eb86)]
 - ✨ Add the dock autohide-delay command [[6d0ff22](https://github.com/yannbertrand/macos-defaults/commit/6d0ff22c71706e35c13222e0a44d4210835d73ae)]
 - ✨ Add the dock autohide command [[aa2d5e5](https://github.com/yannbertrand/macos-defaults/commit/aa2d5e58844f2d3f2b86674119b62299c5e93142)]
 - ✨ Add the screenshot location command [[b12554b](https://github.com/yannbertrand/macos-defaults/commit/b12554bd25fa07d42b4827b07af5397a0785ce3b)]
