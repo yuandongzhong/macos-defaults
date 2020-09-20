@@ -4,6 +4,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## 💻 Commands
 ## [Dock](./dock/readme.md)
 - [Autohide](./dock/autohide/readme.md)
+- [Autohide delay](./dock/autohide-delay/readme.md)
 
 ## [Screenshots](./screenshots/readme.md)
 - [Disable shadow](./screenshots/disable-shadow/readme.md)
