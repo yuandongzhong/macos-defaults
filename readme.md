@@ -12,6 +12,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Include date](./screenshots/include-date/readme.md)
 - [Set location](./screenshots/location/readme.md)
 
+## [Finder](./finder/readme.md)
+- [Quit](./finder/QuitMenuItem/readme.md)
+
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
 
