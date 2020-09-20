@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the finder FXEnableExtensionChangeWarning command [[da300ed](https://github.com/yannbertrand/macos-defaults/commit/da300edfe331ced2803d3e64af784d0e09d5235f)]
 - ✨ Add the dock show-recents command [[9901f62](https://github.com/yannbertrand/macos-defaults/commit/9901f625c932622d0c641e391e36496e43064115)]
 - ✨ Add the screenshot show-thumbnail command [[7933250](https://github.com/yannbertrand/macos-defaults/commit/7933250e76c11aa3db04455c65768f65e1b9a4d3)]
 - ✨ Add the dock mineffect command [[fc36364](https://github.com/yannbertrand/macos-defaults/commit/fc36364026268f0eef32a36e2053d800560d3f6b)]
