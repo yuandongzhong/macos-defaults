@@ -7,6 +7,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Autohide](./dock/autohide/readme.md)
 - [Autohide animation time](./dock/autohide-time-modifier/readme.md)
 - [Autohide delay](./dock/autohide-delay/readme.md)
+- [Minimize animation effect](./dock/mineffect/readme.md)
 
 ## [Screenshots](./screenshots/readme.md)
 - [Disable shadow](./screenshots/disable-shadow/readme.md)

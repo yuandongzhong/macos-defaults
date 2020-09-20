@@ -8,3 +8,4 @@
 - [Autohide](./autohide/readme.md)
 - [Autohide animation time](./autohide-time-modifier/readme.md)
 - [Autohide delay](./autohide-delay/readme.md)
+- [Minimize animation effect](./mineffect/readme.md)
