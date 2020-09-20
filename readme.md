@@ -13,6 +13,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Disable shadow](./screenshots/disable-shadow/readme.md)
 - [Include date](./screenshots/include-date/readme.md)
 - [Set location](./screenshots/location/readme.md)
+- [Display thumbnail](./screenshots/show-thumbnail/readme.md)
 
 ## [Finder](./finder/readme.md)
 - [Quit](./finder/QuitMenuItem/readme.md)
