@@ -22,6 +22,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Feedback Assistant](./feedback-assistant/readme.md)
 - [Autogather](./feedback-assistant/Autogather/readme.md)
 
+## [Miscellaneous](./misc/readme.md)
+- [Help Menu position](./misc/DevMode/readme.md)
+
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
 
