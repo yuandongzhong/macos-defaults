@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the dock autohide command [[aa2d5e5](https://github.com/yannbertrand/macos-defaults/commit/aa2d5e58844f2d3f2b86674119b62299c5e93142)]
 - ✨ Add the screenshot location command [[b12554b](https://github.com/yannbertrand/macos-defaults/commit/b12554bd25fa07d42b4827b07af5397a0785ce3b)]
 - ✨ Add the screenshot include-date command [[d445fff](https://github.com/yannbertrand/macos-defaults/commit/d445fff13c9f1a276e5d3a9942fde6d9dbdff502)]
 - ✨ Add the screenshot disable-shadow command [[691b2ce](https://github.com/yannbertrand/macos-defaults/commit/691b2ce1a9bea2dd0b57c30c08f0e237bc31b370)]
