@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the screenshot show-thumbnail command [[7933250](https://github.com/yannbertrand/macos-defaults/commit/7933250e76c11aa3db04455c65768f65e1b9a4d3)]
 - ✨ Add the dock mineffect command [[fc36364](https://github.com/yannbertrand/macos-defaults/commit/fc36364026268f0eef32a36e2053d800560d3f6b)]
 - ✨ Add the dock autohide-time-modifier [[7e0b5ce](https://github.com/yannbertrand/macos-defaults/commit/7e0b5cec9065367d43b215410461ffb855b80579)]
 - ✨ Add the helpviewer DevMode command [[5b8eaaa](https://github.com/yannbertrand/macos-defaults/commit/5b8eaaa4e226f3bb014660d96ed7963a0fd137fc)]
