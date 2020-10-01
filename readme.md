@@ -30,6 +30,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Miscellaneous](./misc/readme.md)
 - [Help Menu position](./misc/DevMode/readme.md)
 
+## [Xcode](./xcode/readme.md)
+- [Add Additional Counterpart Suffixes](./xcode/IDEAdditionalCounterpartSuffixes/readme.md)
+
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
 
