@@ -24,6 +24,10 @@
 - ✨ Add the screenshot disable-shadow command [[691b2ce](https://github.com/yannbertrand/macos-defaults/commit/691b2ce1a9bea2dd0b57c30c08f0e237bc31b370)]
 - 🎉  [[2d10094](https://github.com/yannbertrand/macos-defaults/commit/2d100945c47068df7d0bd1e1414d06ed7ef9da28)]
 
+### Fixed
+
+- 🐛 Fix trailing spaces [[ecae4b3](https://github.com/yannbertrand/macos-defaults/commit/ecae4b3fe78e8c19554fb901b6cecd985267e6eb)]
+
 ### Miscellaneous
 
 - 🔨 Fix Dock mineffect automated video capture [[99c0981](https://github.com/yannbertrand/macos-defaults/commit/99c0981521d21371a7c4038cc51a5d4ed18575fa)]
