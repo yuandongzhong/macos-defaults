@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the screenshot type command ([#49](https://github.com/yannbertrand/macos-defaults/issues/49)) [[38158e7](https://github.com/yannbertrand/macos-defaults/commit/38158e7ecde6ef091090739d850b815514ddebf9)]
 - ✨ Add the xcode IDEAdditionalCounterpartSuffixes command [[e4c6c91](https://github.com/yannbertrand/macos-defaults/commit/e4c6c9169a02dc451e3de0d661afddaa9166dc25)]
 - ✨ Add the finder FXEnableExtensionChangeWarning command [[da300ed](https://github.com/yannbertrand/macos-defaults/commit/da300edfe331ced2803d3e64af784d0e09d5235f)]
 - ✨ Add the dock show-recents command [[9901f62](https://github.com/yannbertrand/macos-defaults/commit/9901f625c932622d0c641e391e36496e43064115)]
