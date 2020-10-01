@@ -6,3 +6,4 @@
 - [Include date](./include-date/readme.md)
 - [Set location](./location/readme.md)
 - [Display thumbnail](./show-thumbnail/readme.md)
+- [Choose screenshot format](./type/readme.md)

@@ -15,6 +15,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Include date](./screenshots/include-date/readme.md)
 - [Set location](./screenshots/location/readme.md)
 - [Display thumbnail](./screenshots/show-thumbnail/readme.md)
+- [Choose screenshot format](./screenshots/type/readme.md)
 
 ## [Finder](./finder/readme.md)
 - [Quit](./finder/QuitMenuItem/readme.md)
