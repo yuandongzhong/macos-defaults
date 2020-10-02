@@ -25,6 +25,10 @@
 - ✨ Add the screenshot disable-shadow command [[691b2ce](https://github.com/yannbertrand/macos-defaults/commit/691b2ce1a9bea2dd0b57c30c08f0e237bc31b370)]
 - 🎉  [[2d10094](https://github.com/yannbertrand/macos-defaults/commit/2d100945c47068df7d0bd1e1414d06ed7ef9da28)]
 
+### Changed
+
+- 🚚 Move the menu bar category after the finder category [[aee8e3d](https://github.com/yannbertrand/macos-defaults/commit/aee8e3dfed45af226b7629bcc2a2127570802018)]
+
 ### Fixed
 
 - 🐛 Fix trailing spaces [[ecae4b3](https://github.com/yannbertrand/macos-defaults/commit/ecae4b3fe78e8c19554fb901b6cecd985267e6eb)]
