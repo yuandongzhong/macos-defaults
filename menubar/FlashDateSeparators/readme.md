@@ -9,14 +9,14 @@
 
 ### Set to `false` (default value)
 ```bash
-defaults write com.apple.menuextra.clock FlashDateSeparators -bool false
+defaults write com.apple.menuextra.clock FlashDateSeparators -bool false && killall SystemUIServer
 ```
 [Link to a demo video](false.mp4)
 - The time separator stays solid continuously.
 
 ### Set to `true`
 ```bash
-defaults write com.apple.menuextra.clock FlashDateSeparators -bool true
+defaults write com.apple.menuextra.clock FlashDateSeparators -bool true && killall SystemUIServer
 ```
 [Link to a demo video](true.mp4)
 - The time separator flashes every second.
@@ -28,5 +28,5 @@ defaults read com.apple.menuextra.clock FlashDateSeparators
 
 ## Delete current value
 ```bash
-defaults delete com.apple.menuextra.clock FlashDateSeparators
+defaults delete com.apple.menuextra.clock FlashDateSeparators && killall SystemUIServer
 ```

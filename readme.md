@@ -10,9 +10,6 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Show recents](./dock/show-recents/readme.md)
 - [Minimize animation effect](./dock/mineffect/readme.md)
 
-## [Menu Bar](./menubar/readme.md)
-- [Flash clock time separators](./menubar/FlashDateSeparators/readme.md)
-
 ## [Screenshots](./screenshots/readme.md)
 - [Disable shadow](./screenshots/disable-shadow/readme.md)
 - [Include date](./screenshots/include-date/readme.md)
@@ -24,6 +21,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Quit](./finder/QuitMenuItem/readme.md)
 - [Show extensions](./finder/AppleShowAllExtensions/readme.md)
 - [Changing file extension warning](./finder/FXEnableExtensionChangeWarning/readme.md)
+
+## [Menu Bar](./menubar/readme.md)
+- [Flash clock time separators](./menubar/FlashDateSeparators/readme.md)
 
 ## [Mission Control](./mission-control/readme.md)
 - [Rearrange automatically](./mission-control/mru-spaces/readme.md)
