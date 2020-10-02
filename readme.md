@@ -10,6 +10,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Show recents](./dock/show-recents/readme.md)
 - [Minimize animation effect](./dock/mineffect/readme.md)
 
+## [Menu Bar](./menubar/readme.md)
+- [Flash clock time separators](./menubar/FlashDateSeparators/readme.md)
+
 ## [Screenshots](./screenshots/readme.md)
 - [Disable shadow](./screenshots/disable-shadow/readme.md)
 - [Include date](./screenshots/include-date/readme.md)
