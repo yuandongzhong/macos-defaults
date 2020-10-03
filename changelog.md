@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-10-02)
+## 1.0.0 (2020-10-03)
 
 ### Added
 
@@ -31,6 +31,7 @@
 
 ### Fixed
 
+- 🐛 Add Big Sur to menu bar FlashDateSeparators supported versions [[1f99140](https://github.com/yannbertrand/macos-defaults/commit/1f99140b1383aa130c53e15efe291b9a5420c93a)]
 - 🐛 Fix trailing spaces [[ecae4b3](https://github.com/yannbertrand/macos-defaults/commit/ecae4b3fe78e8c19554fb901b6cecd985267e6eb)]
 
 ### Miscellaneous
