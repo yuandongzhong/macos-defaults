@@ -7,6 +7,7 @@
 - **Tested on macOS**:
   * Big Sur
   * Catalina
+  * Mojave
 - **Parameter type**: string
 
 ### Set to `png` (default value)

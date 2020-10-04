@@ -6,6 +6,8 @@
 
 - **Tested on macOS**:
   * Big Sur
+  * Catalina
+  * Mojave
 - **Parameter type**: bool
 
 ### Set to `true` (default value)
