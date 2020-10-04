@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add the miscellaneous dock spring-loading command ([#52](https://github.com/yannbertrand/macos-defaults/issues/52)) [[5b68e86](https://github.com/yannbertrand/macos-defaults/commit/5b68e8611193a82537d7c1afbdccf0c51a6f5d48)]
 - ✨ Add the finder NSToolbarTitleViewRolloverDelay command [[de9cda5](https://github.com/yannbertrand/macos-defaults/commit/de9cda52835f08c3cf22a7d42330a0b3fab50251)]
 - ✨ Add the screenshot type command ([#49](https://github.com/yannbertrand/macos-defaults/issues/49)) [[38158e7](https://github.com/yannbertrand/macos-defaults/commit/38158e7ecde6ef091090739d850b815514ddebf9)]
 - ✨ Add the xcode IDEAdditionalCounterpartSuffixes command [[e4c6c91](https://github.com/yannbertrand/macos-defaults/commit/e4c6c9169a02dc451e3de0d661afddaa9166dc25)]
