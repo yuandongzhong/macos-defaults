@@ -3,3 +3,4 @@
 > All the others `defaults` that don't deserve their own category.
 
 - [Help Menu position](./DevMode/readme.md)
+- [Enable spring loading for all Dock items](./enable-spring-load-actions-on-all-items/readme.md)
