@@ -25,6 +25,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 
 ## [Menu Bar](./menubar/readme.md)
 - [Flash clock time separators](./menubar/FlashDateSeparators/readme.md)
+- [Set menubar digital clock format](./menubar/DateFormat/readme.md)
 
 ## [Mission Control](./mission-control/readme.md)
 - [Rearrange automatically](./mission-control/mru-spaces/readme.md)
