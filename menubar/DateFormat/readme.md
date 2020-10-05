@@ -2,7 +2,7 @@
 
 ## Set menubar digital clock format
 
-> This setting configures the time and date format for the menubar digital clock. Default value depends on your locale settings. `ss` for seconds, `HH` for 24-hour clock, `EEE` for 3-letter day of the week, `d MMM` for day of the month and 3-letter month. These commands could have a different result depending on the Language & Region parameters.
+> This setting configures the time and date format for the menubar digital clock. Accepted values depend on your Language & Region settings. - `ss` for seconds - `HH` for 24-hour clock - `EEE` for 3-letter day of the week - `d MMM` for day of the month and 3-letter month
 
 - **Tested on macOS**:
   * Big Sur
