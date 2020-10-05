@@ -40,6 +40,7 @@
 
 ### Miscellaneous
 
+- 🌐 Translate menu bar DateFormat 🇫🇷 [[2ca834f](https://github.com/yannbertrand/macos-defaults/commit/2ca834fe1b0f8a14d689399b9ada3e547cba7fb9)]
 - 📷 Add the menu bar FlashDateSeparators videos [[fbbc7b5](https://github.com/yannbertrand/macos-defaults/commit/fbbc7b5c2822618bf97d78cf8be4804417dc3576)]
 - 🔨 Fix Dock mineffect automated video capture [[99c0981](https://github.com/yannbertrand/macos-defaults/commit/99c0981521d21371a7c4038cc51a5d4ed18575fa)]
 
