@@ -1,10 +1,11 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-10-05)
+## 1.0.0 (2020-10-18)
 
 ### Added
 
+- ✨ Add the xcode ShowBuildOperationDuration command ([#73](https://github.com/yannbertrand/macos-defaults/issues/73)) [[ee7c2a0](https://github.com/yannbertrand/macos-defaults/commit/ee7c2a066e43b04a60703c8ebacd8bde67894b34)]
 - ✨ Add Netlify logo on all builds ([#58](https://github.com/yannbertrand/macos-defaults/issues/58)) [[7e01fea](https://github.com/yannbertrand/macos-defaults/commit/7e01feaca8102911697d080c23ae29d617563292)]
 - ✨ Add menu bar DateFormat command ([#56](https://github.com/yannbertrand/macos-defaults/issues/56)) [[94b9f15](https://github.com/yannbertrand/macos-defaults/commit/94b9f1549415a093ead63ed083df99177d411c90)]
 - ✨ Add the miscellaneous dock spring-loading command ([#52](https://github.com/yannbertrand/macos-defaults/issues/52)) [[5b68e86](https://github.com/yannbertrand/macos-defaults/commit/5b68e8611193a82537d7c1afbdccf0c51a6f5d48)]
