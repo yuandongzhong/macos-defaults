@@ -35,6 +35,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 
 ## [Xcode](./xcode/readme.md)
 - [Add Additional Counterpart Suffixes](./xcode/IDEAdditionalCounterpartSuffixes/readme.md)
+- [Show Build Durations](./xcode/ShowBuildOperationDuration/readme.md)
 
 ## [Miscellaneous](./misc/readme.md)
 - [Help Menu position](./misc/DevMode/readme.md)
