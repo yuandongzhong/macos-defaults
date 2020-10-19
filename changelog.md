@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add time machine DoNotOfferNewDisksForBackup command ([#65](https://github.com/yannbertrand/macos-defaults/issues/65)) [[3dd69a4](https://github.com/yannbertrand/macos-defaults/commit/3dd69a472ce4fa944a772240d182bac6bff62f36)]
 - ✨ Add music userWantsPlaybackNotifications command ([#64](https://github.com/yannbertrand/macos-defaults/issues/64)) [[1e02917](https://github.com/yannbertrand/macos-defaults/commit/1e02917dd237726920f921b7cef84706780b3c76)]
 - ✨ Add simulator ScreenShotSaveLocation ([#78](https://github.com/yannbertrand/macos-defaults/issues/78)) [[5c33af7](https://github.com/yannbertrand/macos-defaults/commit/5c33af79408e812360b33ad638d131a2a5cb8ab8)]
 - ✨ Add the xcode ShowBuildOperationDuration command ([#73](https://github.com/yannbertrand/macos-defaults/issues/73)) [[ee7c2a0](https://github.com/yannbertrand/macos-defaults/commit/ee7c2a066e43b04a60703c8ebacd8bde67894b34)]
