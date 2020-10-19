@@ -37,6 +37,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Add Additional Counterpart Suffixes](./xcode/IDEAdditionalCounterpartSuffixes/readme.md)
 - [Show Build Durations](./xcode/ShowBuildOperationDuration/readme.md)
 
+## [Simulator](./simulator/readme.md)
+- [Set screenshot location](./simulator/ScreenShotSaveLocation/readme.md)
+
 ## [Miscellaneous](./misc/readme.md)
 - [Help Menu position](./misc/DevMode/readme.md)
 - [Enable spring loading for all Dock items](./misc/enable-spring-load-actions-on-all-items/readme.md)
