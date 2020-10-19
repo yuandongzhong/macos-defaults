@@ -4,3 +4,4 @@
 
 - [Help Menu position](./DevMode/readme.md)
 - [Enable spring loading for all Dock items](./enable-spring-load-actions-on-all-items/readme.md)
+- [Show Music song notifications](./userWantsPlaybackNotifications/readme.md)
