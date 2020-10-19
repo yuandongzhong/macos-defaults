@@ -40,6 +40,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Simulator](./simulator/readme.md)
 - [Set screenshot location](./simulator/ScreenShotSaveLocation/readme.md)
 
+## [Time Machine](./timemachine/readme.md)
+- [Don&#x27;t offer new disks for Time Machine backup](./timemachine/DoNotOfferNewDisksForBackup/readme.md)
+
 ## [Miscellaneous](./misc/readme.md)
 - [Help Menu position](./misc/DevMode/readme.md)
 - [Enable spring loading for all Dock items](./misc/enable-spring-load-actions-on-all-items/readme.md)
