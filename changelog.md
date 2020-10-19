@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add music userWantsPlaybackNotifications command ([#64](https://github.com/yannbertrand/macos-defaults/issues/64)) [[1e02917](https://github.com/yannbertrand/macos-defaults/commit/1e02917dd237726920f921b7cef84706780b3c76)]
 - ✨ Add simulator ScreenShotSaveLocation ([#78](https://github.com/yannbertrand/macos-defaults/issues/78)) [[5c33af7](https://github.com/yannbertrand/macos-defaults/commit/5c33af79408e812360b33ad638d131a2a5cb8ab8)]
 - ✨ Add the xcode ShowBuildOperationDuration command ([#73](https://github.com/yannbertrand/macos-defaults/issues/73)) [[ee7c2a0](https://github.com/yannbertrand/macos-defaults/commit/ee7c2a066e43b04a60703c8ebacd8bde67894b34)]
 - ✨ Add Netlify logo on all builds ([#58](https://github.com/yannbertrand/macos-defaults/issues/58)) [[7e01fea](https://github.com/yannbertrand/macos-defaults/commit/7e01feaca8102911697d080c23ae29d617563292)]
