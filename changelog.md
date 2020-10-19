@@ -5,6 +5,7 @@
 
 ### Added
 
+- ✨ Add finder NSDocumentSaveNewDocumentsToCloud command ([#76](https://github.com/yannbertrand/macos-defaults/issues/76)) [[44cb078](https://github.com/yannbertrand/macos-defaults/commit/44cb078b73692458e64fc2be3deb32b142f03f79)]
 - ✨ Add time machine DoNotOfferNewDisksForBackup command ([#65](https://github.com/yannbertrand/macos-defaults/issues/65)) [[3dd69a4](https://github.com/yannbertrand/macos-defaults/commit/3dd69a472ce4fa944a772240d182bac6bff62f36)]
 - ✨ Add music userWantsPlaybackNotifications command ([#64](https://github.com/yannbertrand/macos-defaults/issues/64)) [[1e02917](https://github.com/yannbertrand/macos-defaults/commit/1e02917dd237726920f921b7cef84706780b3c76)]
 - ✨ Add simulator ScreenShotSaveLocation ([#78](https://github.com/yannbertrand/macos-defaults/issues/78)) [[5c33af7](https://github.com/yannbertrand/macos-defaults/commit/5c33af79408e812360b33ad638d131a2a5cb8ab8)]
