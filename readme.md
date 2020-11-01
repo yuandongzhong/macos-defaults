@@ -23,7 +23,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Changing file extension warning](./finder/FXEnableExtensionChangeWarning/readme.md)
 - [Save to disk or iCloud by default](./finder/NSDocumentSaveNewDocumentsToCloud/readme.md)
 - [Adjust toolbar title rollover delay](./finder/NSToolbarTitleViewRolloverDelay/readme.md)
-- [Set Finder sidebar icon size](./finder/NSTableViewDefaultSizeMode/readme.md)
+- [Set sidebar icon size](./finder/NSTableViewDefaultSizeMode/readme.md)
 
 ## [Menu Bar](./menubar/readme.md)
 - [Flash clock time separators](./menubar/FlashDateSeparators/readme.md)

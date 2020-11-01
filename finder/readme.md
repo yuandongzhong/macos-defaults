@@ -7,4 +7,4 @@
 - [Changing file extension warning](./FXEnableExtensionChangeWarning/readme.md)
 - [Save to disk or iCloud by default](./NSDocumentSaveNewDocumentsToCloud/readme.md)
 - [Adjust toolbar title rollover delay](./NSToolbarTitleViewRolloverDelay/readme.md)
-- [Set Finder sidebar icon size](./NSTableViewDefaultSizeMode/readme.md)
+- [Set sidebar icon size](./NSTableViewDefaultSizeMode/readme.md)

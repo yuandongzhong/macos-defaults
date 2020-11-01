@@ -1,6 +1,6 @@
 # [Finder](../readme.md)
 
-## Set Finder sidebar icon size
+## Set sidebar icon size
 
 > Choose the size of Finder sidebar icons
 
@@ -13,18 +13,21 @@
 ```bash
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 1 && killall Finder
 ```
+![Example output with value set to 1](1.png)
 - Small
 
 ### Set to `2` (default value)
 ```bash
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2 && killall Finder
 ```
+![Example output with value set to 2](2.png)
 - Medium
 
 ### Set to `3`
 ```bash
 defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 3 && killall Finder
 ```
+![Example output with value set to 3](3.png)
 - Large
 
 ### Read current value
