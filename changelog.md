@@ -41,6 +41,7 @@
 
 ### Fixed
 
+- ✏️ Rename finder NSTableViewDefaultSizeMode command title [[fb5dea3](https://github.com/yannbertrand/macos-defaults/commit/fb5dea30f2aebc9ce04784d937a9f6b25660b01e)]
 - ✏️ Add spacing [[83411fe](https://github.com/yannbertrand/macos-defaults/commit/83411fe6f2a387a5c14114b570d8e043021daf76)]
 - 🐛 Add Big Sur to menu bar FlashDateSeparators supported versions [[1f99140](https://github.com/yannbertrand/macos-defaults/commit/1f99140b1383aa130c53e15efe291b9a5420c93a)]
 - 🐛 Fix trailing spaces [[ecae4b3](https://github.com/yannbertrand/macos-defaults/commit/ecae4b3fe78e8c19554fb901b6cecd985267e6eb)]
