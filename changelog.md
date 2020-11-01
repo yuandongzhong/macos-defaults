@@ -1,10 +1,11 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-10-19)
+## 1.0.0 (2020-11-01)
 
 ### Added
 
+- ✨ Add finder NSTableViewDefaultSizeMode command ([#75](https://github.com/yannbertrand/macos-defaults/issues/75)) [[aca5321](https://github.com/yannbertrand/macos-defaults/commit/aca53214841e04a8a8bed4b4be9c92698cc15ec7)]
 - ✨ Add finder NSDocumentSaveNewDocumentsToCloud command ([#76](https://github.com/yannbertrand/macos-defaults/issues/76)) [[44cb078](https://github.com/yannbertrand/macos-defaults/commit/44cb078b73692458e64fc2be3deb32b142f03f79)]
 - ✨ Add time machine DoNotOfferNewDisksForBackup command ([#65](https://github.com/yannbertrand/macos-defaults/issues/65)) [[3dd69a4](https://github.com/yannbertrand/macos-defaults/commit/3dd69a472ce4fa944a772240d182bac6bff62f36)]
 - ✨ Add music userWantsPlaybackNotifications command ([#64](https://github.com/yannbertrand/macos-defaults/issues/64)) [[1e02917](https://github.com/yannbertrand/macos-defaults/commit/1e02917dd237726920f921b7cef84706780b3c76)]
