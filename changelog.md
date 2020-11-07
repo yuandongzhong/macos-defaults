@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-11-01)
+## 1.0.0 (2020-11-07)
 
 ### Added
 
@@ -38,6 +38,7 @@
 
 ### Changed
 
+- 💄 Add Netlify image width &amp; height [[68a14b3](https://github.com/yannbertrand/macos-defaults/commit/68a14b32f34ce2add75dfc7a14a99ead7421170a)]
 - 🚚 Move the menu bar category after the finder category [[aee8e3d](https://github.com/yannbertrand/macos-defaults/commit/aee8e3dfed45af226b7629bcc2a2127570802018)]
 
 ### Fixed
