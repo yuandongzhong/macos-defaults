@@ -93,9 +93,10 @@ class MacRunner {
    * Capture the app window into a file
    * @param {*} appName Application name to capture
    * @param {*} output Output file name (png)
+   * @param {*} shadow Display app shadow, default false
    */
-  captureApp(appName, output) {
-    return this.register(() => execCommand(`screencapture -l$(osascript -e 'tell app "${appName}" to id of window 1') ${output}`))
+  captureApp(appName, output, shadow = false) {
+    return this.register(() => execCommand(`screencapture -${shadow?'':'o'}l$(osascript -e 'tell app "${appName}" to id of window 1') ${output}`))
   }
 
   /**
