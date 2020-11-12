@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-11-07)
+## 1.0.0 (2020-11-12)
 
 ### Added
 
@@ -50,6 +50,7 @@
 
 ### Miscellaneous
 
+- 📷 Update screenshots disable-shadow command screenshots for Big Sur [[5080795](https://github.com/yannbertrand/macos-defaults/commit/5080795bcc23df6e54d225b0d0cebb084e2d183e)]
 - 🌐 Translate menu bar DateFormat 🇫🇷 [[2ca834f](https://github.com/yannbertrand/macos-defaults/commit/2ca834fe1b0f8a14d689399b9ada3e547cba7fb9)]
 - 📷 Add the menu bar FlashDateSeparators videos [[fbbc7b5](https://github.com/yannbertrand/macos-defaults/commit/fbbc7b5c2822618bf97d78cf8be4804417dc3576)]
 - 🔨 Fix Dock mineffect automated video capture [[99c0981](https://github.com/yannbertrand/macos-defaults/commit/99c0981521d21371a7c4038cc51a5d4ed18575fa)]
