@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-11-12)
+## 1.0.0 (2020-11-13)
 
 ### Added
 
@@ -38,6 +38,7 @@
 
 ### Changed
 
+- ♻️ Use MacRunner [[f7c65c3](https://github.com/yannbertrand/macos-defaults/commit/f7c65c35bd5d2e544bd316680b7aa32b69465e6c)]
 - 💄 Add Netlify image width &amp; height [[68a14b3](https://github.com/yannbertrand/macos-defaults/commit/68a14b32f34ce2add75dfc7a14a99ead7421170a)]
 - 🚚 Move the menu bar category after the finder category [[aee8e3d](https://github.com/yannbertrand/macos-defaults/commit/aee8e3dfed45af226b7629bcc2a2127570802018)]
 
