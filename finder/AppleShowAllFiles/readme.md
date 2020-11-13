@@ -5,6 +5,7 @@
 > Show hidden files in the Finder.
 
 - **Tested on macOS**:
+  * Big Sur
   * Catalina
 - **Parameter type**: bool
 
