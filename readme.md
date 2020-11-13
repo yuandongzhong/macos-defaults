@@ -21,6 +21,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Finder](./finder/readme.md)
 - [Quit](./finder/QuitMenuItem/readme.md)
 - [Show extensions](./finder/AppleShowAllExtensions/readme.md)
+- [Show hidden files](./finder/AppleShowAllFiles/readme.md)
 - [Changing file extension warning](./finder/FXEnableExtensionChangeWarning/readme.md)
 - [Save to disk or iCloud by default](./finder/NSDocumentSaveNewDocumentsToCloud/readme.md)
 - [Adjust toolbar title rollover delay](./finder/NSToolbarTitleViewRolloverDelay/readme.md)
