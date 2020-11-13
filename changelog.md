@@ -39,6 +39,7 @@
 
 ### Changed
 
+- 💄 Add default value indicator [[b3fc4ac](https://github.com/yannbertrand/macos-defaults/commit/b3fc4ac164c9c257990ad8d481bc7ef9be5b849e)]
 - ⬆️ finder AppleShowAllFiles command is supported in Big Sur [[6d2f065](https://github.com/yannbertrand/macos-defaults/commit/6d2f06552e157d6413175f0be80af5db24495466)]
 - ♻️ Use MacRunner [[f7c65c3](https://github.com/yannbertrand/macos-defaults/commit/f7c65c35bd5d2e544bd316680b7aa32b69465e6c)]
 - 💄 Add Netlify image width &amp; height [[68a14b3](https://github.com/yannbertrand/macos-defaults/commit/68a14b32f34ce2add75dfc7a14a99ead7421170a)]
