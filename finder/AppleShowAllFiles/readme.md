@@ -9,7 +9,7 @@
   * Catalina
 - **Parameter type**: bool
 
-### Set to `false`
+### Set to `false` (default value)
 ```bash
 defaults write com.apple.Finder AppleShowAllFiles -bool false && killall Finder
 ```
