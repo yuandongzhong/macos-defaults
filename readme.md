@@ -51,6 +51,7 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 - [Help Menu position](./misc/DevMode/readme.md)
 - [Enable spring loading for all Dock items](./misc/enable-spring-load-actions-on-all-items/readme.md)
 - [Show Music song notifications](./misc/userWantsPlaybackNotifications/readme.md)
+- [Disable application quarantine message](./misc/LSQuarantine/readme.md)
 
 ## 🤔 How do I add a command?
 Please update [this file](https://github.com/yannbertrand/macos-defaults/blob/master/defaults.yml) that I use to [build multiple websites](https://github.com/yannbertrand/macos-defaults/#readme) like this one.
