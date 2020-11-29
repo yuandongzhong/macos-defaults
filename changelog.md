@@ -1,10 +1,11 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2020-11-13)
+## 1.0.0 (2020-11-29)
 
 ### Added
 
+- ✨ Add misc LSQuarantine command ([#94](https://github.com/yannbertrand/macos-defaults/issues/94)) [[ac2dd21](https://github.com/yannbertrand/macos-defaults/commit/f7bbe632e6af7d5da338bec4a6f5a99dcac2dd21)]
 - ✨ Add finder AppleShowAllFiles command [[f6732dd](https://github.com/yannbertrand/macos-defaults/commit/f6732dd468ec37e376abc9abb2437d385d06f8a0)]
 - ✨ Add dock tilesize command ([#85](https://github.com/yannbertrand/macos-defaults/issues/85)) [[ac8511e](https://github.com/yannbertrand/macos-defaults/commit/ac8511e86a0ff159c274889babb135ec5f4f46b4)]
 - ✨ Add finder NSTableViewDefaultSizeMode command ([#75](https://github.com/yannbertrand/macos-defaults/issues/75)) [[aca5321](https://github.com/yannbertrand/macos-defaults/commit/aca53214841e04a8a8bed4b4be9c92698cc15ec7)]
