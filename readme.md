@@ -44,6 +44,9 @@ Uncomplete list of macOS `defaults` commands with demos ✨
 ## [Simulator](./simulator/readme.md)
 - [Set screenshot location](./simulator/ScreenShotSaveLocation/readme.md)
 
+## [TextEdit](./textedit/readme.md)
+- [Set default document format](./textedit/RichText/readme.md)
+
 ## [Time Machine](./timemachine/readme.md)
 - [Don&#x27;t offer new disks for Time Machine backup](./timemachine/DoNotOfferNewDisksForBackup/readme.md)
 
