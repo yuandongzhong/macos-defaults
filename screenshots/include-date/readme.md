@@ -20,8 +20,9 @@ defaults write com.apple.screencapture include-date -bool true
 ```bash
 defaults write com.apple.screencapture include-date -bool false
 ```
-- Screenshot.png
+- - Screenshot.png
 - Screenshot 1.png
+
 
 ### Read current value
 ```bash

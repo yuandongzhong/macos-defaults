@@ -6,17 +6,17 @@
 
 - **Tested on macOS**:
   * Catalina
-- **Parameter type**: array-add
+- **Parameter type**: array
 
-### Set to `"ViewModel" "View"`
+### Set to `ViewModel,View`
 ```bash
-defaults write com.apple.dt.Xcode IDEAdditionalCounterpartSuffixes -array-add "ViewModel" "View" && killall Xcode
+defaults write com.apple.dt.Xcode IDEAdditionalCounterpartSuffixes -array ViewModel,View && killall Xcode
 ```
 - Add the "ViewModel" and "View" counterpart suffixes (Useful for Model-View-ViewModel (MVVM) architectures).
 
-### Set to `"Router" "Interactor" "Builder"`
+### Set to `Router,Interactor,Builder`
 ```bash
-defaults write com.apple.dt.Xcode IDEAdditionalCounterpartSuffixes -array-add "Router" "Interactor" "Builder" && killall Xcode
+defaults write com.apple.dt.Xcode IDEAdditionalCounterpartSuffixes -array Router,Interactor,Builder && killall Xcode
 ```
 - Add the "Router", "Interactor" and "Builder" counterpart suffixes (Useful for RIB architectures).
 
