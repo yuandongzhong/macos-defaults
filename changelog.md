@@ -1,12 +1,12 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2021-01-01)
+## 1.0.0 (2021-04-04)
 
 ### Added
 
-- ✨ Add textedit RichText command ([#120](https://github.com/yannbertrand/macos-defaults/issues/120)) [[174610d](https://github.com/yannbertrand/macos-defaults/commit/e29006358a0ad45f0bd0694b63bab0f02174610d)]
-- ✨ Add misc LSQuarantine command ([#94](https://github.com/yannbertrand/macos-defaults/issues/94)) [[ac2dd21](https://github.com/yannbertrand/macos-defaults/commit/f7bbe632e6af7d5da338bec4a6f5a99dcac2dd21)]
+- ✨ Add textedit RichText command [[e290063](https://github.com/yannbertrand/macos-defaults/commit/e29006358a0ad45f0bd0694b63bab0f02174610d)]
+- ✨ Add misc LSQuarantine command ([#94](https://github.com/yannbertrand/macos-defaults/issues/94)) [[f7bbe63](https://github.com/yannbertrand/macos-defaults/commit/f7bbe632e6af7d5da338bec4a6f5a99dcac2dd21)]
 - ✨ Add finder AppleShowAllFiles command [[f6732dd](https://github.com/yannbertrand/macos-defaults/commit/f6732dd468ec37e376abc9abb2437d385d06f8a0)]
 - ✨ Add dock tilesize command ([#85](https://github.com/yannbertrand/macos-defaults/issues/85)) [[ac8511e](https://github.com/yannbertrand/macos-defaults/commit/ac8511e86a0ff159c274889babb135ec5f4f46b4)]
 - ✨ Add finder NSTableViewDefaultSizeMode command ([#75](https://github.com/yannbertrand/macos-defaults/issues/75)) [[aca5321](https://github.com/yannbertrand/macos-defaults/commit/aca53214841e04a8a8bed4b4be9c92698cc15ec7)]
@@ -41,6 +41,7 @@
 
 ### Changed
 
+- 💄 Use better template semantics and add new capabilities [[c984d51](https://github.com/yannbertrand/macos-defaults/commit/c984d51fdda7fe653ffc3712939a4d083a8f4c4e)]
 - 💄 Add default value indicator [[b3fc4ac](https://github.com/yannbertrand/macos-defaults/commit/b3fc4ac164c9c257990ad8d481bc7ef9be5b849e)]
 - ⬆️ finder AppleShowAllFiles command is supported in Big Sur [[6d2f065](https://github.com/yannbertrand/macos-defaults/commit/6d2f06552e157d6413175f0be80af5db24495466)]
 - ♻️ Use MacRunner [[f7c65c3](https://github.com/yannbertrand/macos-defaults/commit/f7c65c35bd5d2e544bd316680b7aa32b69465e6c)]
