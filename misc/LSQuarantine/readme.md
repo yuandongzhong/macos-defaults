@@ -2,7 +2,10 @@
 
 ## Disable application quarantine message
 
-> Turn off the “Application Downloaded from Internet” quarantine warning.<br> ⚠️ Stopped working on Big Sur.
+> Turn off the “Application Downloaded from Internet” quarantine warning.
+
+⚠️ Stopped working on Big Sur.
+
 
 - **Tested on macOS**:
   * Catalina

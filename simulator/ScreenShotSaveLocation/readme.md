@@ -2,7 +2,10 @@
 
 ## Set screenshot location
 
-> Set default location for Simulator screenshots.<br> Note that the folder has to exist in the filesystem.
+> Set default location for Simulator screenshots.
+
+Note that the folder has to exist in the filesystem.
+
 
 - **Tested on macOS**:
   * Catalina

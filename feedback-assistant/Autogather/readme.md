@@ -2,7 +2,10 @@
 
 ## Autogather
 
-> Choose whether to autogather large files when submitting a feedback report.<br> Can result in a slow Mac and important upload metrics.
+> Choose whether to autogather large files when submitting a feedback report.
+
+Can result in a slow Mac and important upload metrics.
+
 
 - **Tested on macOS**:
   * Big Sur
