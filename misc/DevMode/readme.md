@@ -5,6 +5,7 @@
 > Choose whether the Help Menu should be always-on-top.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

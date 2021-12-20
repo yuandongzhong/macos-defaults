@@ -5,6 +5,7 @@
 > Set default screenshot location.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

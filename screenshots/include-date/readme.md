@@ -5,6 +5,7 @@
 > Include date and time in screenshot filenames.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

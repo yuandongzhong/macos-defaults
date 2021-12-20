@@ -5,6 +5,7 @@
 > Add a quit option to the Finder.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

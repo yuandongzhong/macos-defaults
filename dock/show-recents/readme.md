@@ -5,6 +5,7 @@
 > Show recently used apps in a separate section of the Dock.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

@@ -5,6 +5,7 @@
 > Choose whether to rearrange Spaces automatically.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

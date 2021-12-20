@@ -5,6 +5,7 @@
 > Change the Dock opening and closing animation times.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

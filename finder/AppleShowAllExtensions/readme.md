@@ -5,6 +5,7 @@
 > Show all file extensions in the Finder.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

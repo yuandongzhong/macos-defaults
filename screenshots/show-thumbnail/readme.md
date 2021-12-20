@@ -5,6 +5,7 @@
 > Choose whether to display a thumbnail after taking a screenshot.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

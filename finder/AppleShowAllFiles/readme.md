@@ -5,6 +5,7 @@
 > Show hidden files in the Finder. You can toggle the value using `⌘ cmd`+`⇧ shift`+`.`.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
 - **Parameter type**: bool

@@ -5,6 +5,7 @@
 > When enabled, the clock indicator (which by default is the colon) will flash on and off each second.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

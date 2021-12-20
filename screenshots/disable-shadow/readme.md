@@ -5,6 +5,7 @@
 > Disable screenshot shadow when capturing an app (`⌘ cmd`+`⇧ shift`+`4` then `space`).
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

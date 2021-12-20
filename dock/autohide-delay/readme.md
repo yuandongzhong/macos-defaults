@@ -5,6 +5,7 @@
 > Change the Dock opening delay.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

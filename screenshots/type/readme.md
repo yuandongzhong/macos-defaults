@@ -5,6 +5,7 @@
 > Choose the screenshots image format.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

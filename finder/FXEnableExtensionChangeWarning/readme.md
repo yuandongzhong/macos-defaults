@@ -5,6 +5,7 @@
 > Choose whether to display a warning when changing a file extension.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

@@ -5,6 +5,7 @@
 > Set the Dock position
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

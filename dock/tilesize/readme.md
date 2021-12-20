@@ -5,6 +5,7 @@
 > Set the icon size of Dock items in pixels.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
 - **Parameter type**: int

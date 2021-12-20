@@ -5,6 +5,7 @@
 > Choose the size of Finder sidebar icons
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
 - **Parameter type**: int

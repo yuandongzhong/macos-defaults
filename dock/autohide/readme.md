@@ -5,6 +5,7 @@
 > Autohides the Dock. You can toggle the Dock using `⌥ alt`+`⌘ cmd`+`d`.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave

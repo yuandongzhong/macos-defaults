@@ -5,6 +5,7 @@
 > Drag a file over an icon in the Dock, hover, and the application will open. The behaviour is unchanged if the app is already open. This behaviour has been observed with Preview, Quicktime, and iWork (Keynote, Pages, Numbers).
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
 - **Parameter type**: bool

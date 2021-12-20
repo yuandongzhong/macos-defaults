@@ -12,6 +12,7 @@ Accepted values depend on your Language & Region settings.
 
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
 - **Parameter type**: string

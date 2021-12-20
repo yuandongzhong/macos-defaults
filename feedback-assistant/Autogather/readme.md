@@ -8,6 +8,7 @@ Can result in a slow Mac and important upload metrics.
 
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
 - **Parameter type**: bool
 

@@ -5,6 +5,7 @@
 > Set default document format as rich text (.rtf) or plain text (.txt).
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
 - **Parameter type**: bool
 

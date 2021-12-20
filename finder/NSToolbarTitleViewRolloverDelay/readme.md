@@ -5,6 +5,7 @@
 > Choose the delay of the auto-hidden document-proxy icon.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
 - **Parameter type**: float
 

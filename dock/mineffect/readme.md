@@ -5,6 +5,7 @@
 > Change the Dock minimize animation.
 
 - **Tested on macOS**:
+  * Monterey
   * Big Sur
   * Catalina
   * Mojave
