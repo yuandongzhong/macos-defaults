@@ -1,7 +1,7 @@
 # Changelog
 
 <a name="1.0.0"></a>
-## 1.0.0 (2021-04-05)
+## 1.0.0 (2021-12-20)
 
 ### Added
 
@@ -41,6 +41,7 @@
 
 ### Changed
 
+- ⬆️ Add Monterey compatibility info [[ee68047](https://github.com/yannbertrand/macos-defaults/commit/ee6804756328fdc2c98acfb7179bd17f47b95ad3)]
 - 💄 Use better template semantics and add new capabilities [[c984d51](https://github.com/yannbertrand/macos-defaults/commit/c984d51fdda7fe653ffc3712939a4d083a8f4c4e)]
 - 💄 Add default value indicator [[b3fc4ac](https://github.com/yannbertrand/macos-defaults/commit/b3fc4ac164c9c257990ad8d481bc7ef9be5b849e)]
 - ⬆️ finder AppleShowAllFiles command is supported in Big Sur [[6d2f065](https://github.com/yannbertrand/macos-defaults/commit/6d2f06552e157d6413175f0be80af5db24495466)]
